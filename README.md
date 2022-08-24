@@ -7,7 +7,7 @@ My research interests lie in the field of Speech Processing, Natural Language Pr
 
 #### 📫 How to reach me:
   
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/im_samin)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahnaf-samin/)  &nbsp; [<img src="https://github.com/samin9796/samin9796/blob/main/icons8-website-64.png" width="3.5%"/>](https://www.ahnafsamin.com)  &nbsp; [<img src="https://img.icons8.com/ios/50/000000/google-scholar--v2.png" width="3.5%"/>](https://scholar.google.com/citations?user=vdueizgAAAAJ&hl=en)  &nbsp; <a href="asamin9796@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/im_samin)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ahnaf-samin/)  &nbsp; [<img src="https://github.com/samin9796/samin9796/blob/main/icons8-website-64.png" width="3.5%"/>](https://www.ahnafsamin.com)  &nbsp; [<img src="https://img.icons8.com/ios/50/000000/google-scholar--v2.png" width="3.5%"/>](https://scholar.google.com/citations?user=vdueizgAAAAJ&hl=en)  &nbsp; [<img src="https://img.icons8.com/ios/50/000000/google-scholar--v2.png" width="3.5%"/>](https://scholar.google.com/citations?user=vdueizgAAAAJ&hl=en)  &nbsp; <a href="asamin9796@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 ## &#x1f4c8; GitHub Stats
 
