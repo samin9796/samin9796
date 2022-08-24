@@ -17,8 +17,10 @@ My research interests lie in the fields of **Speech Processing**, **Natural Lang
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samin9796&hide=TeX&layout=compact)
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=samin9796&custom_title=Samin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://secure-shelf-55680.herokuapp.com/graph?username=samin9796&custom_title=Samin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+https://secure-shelf-55680.herokuapp.com/
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/im_samin"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=im_samin&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
