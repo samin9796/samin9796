@@ -1,7 +1,7 @@
 ## Welcome 👋 🌱
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samin9796&left_color=green&right_color=red)
 
-My name is Ahnaf Mozib Samin and I am currently doing Masters in Erasmus Mundus joint degree program in **Language and Communication Technologies** (LCT) at the **University of Groningen**, the Netherlands and the **University of Malta**.
+My name is **Ahnaf Mozib Samin** and I am currently pursuing a Master's degree in Erasmus Mundus joint Master's degree program in **Language and Communication Technologies** (LCT) at the **University of Groningen**, the Netherlands and the **University of Malta**.
 
 My research interests lie in the fields of **Speech Processing**, **Natural Language Processing (NLP)** and **Computational Linguistics**.  
   
