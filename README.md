@@ -1,7 +1,7 @@
 ## Welcome 👋 🌱
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samin9796&left_color=green&right_color=red)
 
-My name is **Ahnaf Mozib Samin** and I am currently pursuing a Master's degree in Erasmus Mundus joint Master's degree program in **Language and Communication Technologies** (LCT) at the **University of Groningen**, the Netherlands and the **University of Malta**.
+My name is **Ahnaf Mozib Samin** and I am currently a PhD candidate in Electrical and Computer Engineering (ECE) at Queen's University, Canada. I completed a Master's degree in Erasmus Mundus joint Master's degree program in **Language and Communication Technologies** (LCT) at the **University of Groningen**, the Netherlands and the **University of Malta**.
 
 My research interests lie in the fields of **Speech Processing**, **Natural Language Processing (NLP)** and **Computational Linguistics**.  
   
@@ -19,9 +19,6 @@ My research interests lie in the fields of **Speech Processing**, **Natural Lang
 
 [![activity graph](https://secure-shelf-55680.herokuapp.com/graph?username=samin9796&custom_title=Samin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/im_samin"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=im_samin&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
 ## Recent Publications
 
