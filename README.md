@@ -3,7 +3,7 @@
 
 My name is **Ahnaf Mozib Samin** and I have pursued a Master's degree in Erasmus Mundus joint Master's degree program in **Language and Communication Technologies** (LCT) at the **University of Groningen**, the Netherlands and the **University of Malta**.
 
-My research interests lie in the fields of **Natural Language and Speech Processing (NLP)** and **Computational Linguistics**.  
+My research interests lie in the fields of **Natural Language and Speech Processing** and **Computational Linguistics**.  
   
 #### 📫 How to reach me:
   
