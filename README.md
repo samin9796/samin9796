@@ -17,7 +17,6 @@ My research interests lie in the field of **Brain-computer interface, Speech Pro
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samin9796&hide=TeX&layout=compact)
 
-[![activity graph](https://secure-shelf-55680.herokuapp.com/graph?username=samin9796&custom_title=Samin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Recent Publications
