@@ -1,5 +1,4 @@
 ## Welcome 👋 🌱
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samin9796&left_color=green&right_color=red)
 
 I am **Ahnaf Mozib Samin** and am currently a PhD student at **Queen's University**, Canada. Prior to that, I pursued a Master's degree in Erasmus Mundus joint Master's degree program in **Language and Communication Technologies** (LCT) at the **University of Groningen**, the Netherlands and the **University of Malta**.
 
