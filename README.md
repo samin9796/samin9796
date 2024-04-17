@@ -1,9 +1,9 @@
 ## Welcome 👋 🌱
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samin9796&left_color=green&right_color=red)
 
-My name is **Ahnaf Mozib Samin** and I have pursued a Master's degree in Erasmus Mundus joint Master's degree program in **Language and Communication Technologies** (LCT) at the **University of Groningen**, the Netherlands and the **University of Malta**.
+I am **Ahnaf Mozib Samin** and am currently a PhD student at **Queen's University**, Canada. Prior to that, I pursued a Master's degree in Erasmus Mundus joint Master's degree program in **Language and Communication Technologies** (LCT) at the **University of Groningen**, the Netherlands and the **University of Malta**.
 
-My research interests lie in the fields of **Deep Learning, Natural Language and Speech Processing** and **Computational Linguistics**.  
+My research interests lie in the field of **Brain-computer interface, Speech Processing** and **Natural Language Processing**.  
   
 #### 📫 How to reach me:
   
